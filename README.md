@@ -6,7 +6,7 @@ The output is directed to stdout - so you can pipe the output to commands (grep,
 ## Installation
 
 [OSX binaries are provided for CLI. ] (https://github.com/SumoLogic/livetail-cli/releases)
-Windows and Linux binaries coming up soon!
+Windows and Linux binaries coming up soon!!
 
 Simply extract the archive and place the binaries to a location where you have read/write access. 
 
