@@ -1,1 +1,1 @@
-Sumo Logic Live Tail CLI
+# Sumo Logic Live Tail CLI
