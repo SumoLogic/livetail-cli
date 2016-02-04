@@ -23,6 +23,21 @@ You could either provide the credentials each time using -i and -k command line 
 The first time you run the CLI, the tool will prompt you to choose your deployment.
 See [Help for the correct endpoint.] (https://service.sumologic.com/help/Default.htm#Sumo_Logic_Endpoints.htm)
 
+* Command Line Options 
+```
+usage: livetail [-h] [-i ACCESSID] [-k ACCESSKEY] [-v] [-c] [filter]
+
+positional arguments:
+  filter         Live Tail filter
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -i ACCESSID    Access ID
+  -k ACCESSKEY   Acccess Key
+  -v, --version  show program's version number and exit
+  -c             clear Live Tail
+```
+
 ## Examples
 
 Tail all logs from a given Source Host. 
