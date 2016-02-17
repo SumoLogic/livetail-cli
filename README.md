@@ -10,7 +10,6 @@ This feature is documented [here.] (https://service.sumologic.com/help/Default.h
 ## Installation
 
 [Platform specific binaries are provided for CLI. ] (https://github.com/SumoLogic/livetail-cli/releases)
-Linux binaries coming up soon!!
 
 Simply extract the archive and place the binaries to a location where you have read/write access. 
 
