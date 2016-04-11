@@ -5,7 +5,7 @@
 The Live Tail Command Line Interface (CLI) is a standalone application that allows you to start and use a Live Tail session from the command line, similar to `tail -f`
 The output is directed to stdout - so you can pipe the output to commands (grep, awk etc)
 
-This feature is documented [here.] (https://service.sumologic.com/help/Default.htm#Live_Tail_CLI.htm)
+This feature is documented [here.] (http://help.sumologic.com/Search/Live_Tail/Live_Tail_CLI)
 
 ## Installation
 
