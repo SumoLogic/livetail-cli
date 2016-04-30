@@ -20,7 +20,7 @@ It uses accessId and accessKeys that are used with the SumoLogic API for authent
 You could either provide the credentials each time using -i and -k command line options, or enter them once when prompted and they would be saved locally in config.json file in the same directory as the CLI. 
 
 The first time you run the CLI, the tool will prompt you to choose your deployment.
-See [Help for the correct endpoint.] (https://service.sumologic.com/help/Default.htm#Sumo_Logic_Endpoints.htm)
+See [Help for the correct endpoint.] (http://help.sumologic.com/Send_Data/Collector_Management_API/Sumo_Logic_Endpoints)
 
 * Command Line Options 
 ```
