@@ -22,7 +22,8 @@ You could either provide the credentials each time using -i and -k command line 
 The first time you run the CLI, the tool will prompt you to choose your deployment.
 See [Help for the correct endpoint.](http://help.sumologic.com/Send_Data/Collector_Management_API/Sumo_Logic_Endpoints)
 
-* Command Line Options 
+### Command Line Options
+
 ```
 usage: livetail [-h] [-i ACCESSID] [-k ACCESSKEY] [-v] [-c] [filter]
 
@@ -40,17 +41,15 @@ optional arguments:
 ## Examples
 
 Tail all logs from a given Source Host. 
-```
+
+```sh
 ./livetail “_sourceHost = localhost”
 ```
 
 Tail logs from a sourceCategory, grep for a pattern, write it to a file
-```
+
+```sh
 ./livetail “_sourceCategory = service” | grep -i “rate limit exceeded” > out.txt
 ```
 
-
 Happy Tailing!
-
-                            
-
