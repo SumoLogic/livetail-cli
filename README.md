@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/SumoLogic/livetail-cli](https://badges.gitter.im/SumoLogic/livetail-cli.svg)](https://gitter.im/SumoLogic/livetail-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-The Live Tail Command Line Interface (CLI) is a standalone application that allows you to start and use a Live Tail session from the command line, similar to `tail -f`
+The Live Tail Command Line Interface (CLI) is a standalone application that allows you to start and use a Live Tail session from the command line, similar to `tail -f`.
 The output is directed to stdout - so you can pipe the output to commands (grep, awk etc)
 
 This feature is documented [here.](http://help.sumologic.com/Search/Live_Tail/Live_Tail_CLI)
