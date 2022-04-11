@@ -5,7 +5,7 @@
 #
 # This script allows you to start and use a Live Tail session from the command line.
 #
-# You need to provide you Access Id and Access Key when prompted and the script will be able to automatically determine
+# You need to provide your Access Id and Access Key when prompted and the script will be able to automatically determine
 # the deployment where your account exists.
 #
 # If you would like to use the Live Tail CLI with a Sumo internal staging deployment
